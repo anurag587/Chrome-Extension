@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Get Your Boring Jokes",
+  "version": "1.0.1",
+  "description": "Boring Jokes At Your webPage",
+  "icons": {
+    "128": "image.jpg"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "image.jpg"
+    }
+  },
+  "permissions": ["storage"]
+}
