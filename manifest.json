@@ -4,12 +4,12 @@
   "version": "1.0.1",
   "description": "Boring Jokes At Your webPage",
   "icons": {
-    "128": "image.jpg"
+    "128": "image.png"
   },
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "128": "image.jpg"
+      "128": "image.png"
     }
   },
   "permissions": ["storage"]
